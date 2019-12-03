@@ -1,2 +1,2 @@
-# idCheckiOSSDK
-Sam sub  iOS sdk. 
+# Android MobileSDK
+Sam sub  Android MobileSDK. 
